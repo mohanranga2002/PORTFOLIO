@@ -374,14 +374,14 @@ footer {
     .list {
 
         position: absolute;
-        top: 5rem;
+        top: 8rem;
         flex-direction: column;
         display: none;
         text-align: center;
         padding: 1rem 0;
         background-color: black;
         width: 100%;
-        transform: translate(-14%, 14%);
+        left: 0;
     }
 
     .togglelist {
